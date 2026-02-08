@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Roger Kim
-
-### 🎓 Professor & Author
 I enjoy exploring the intersection of AI hardware and system software, with a focus on making complex NPU designs more accessible to everyone.
 
 ### 📚 Published Works
