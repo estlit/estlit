@@ -9,6 +9,6 @@ I enjoy exploring the intersection of AI hardware and system software, with a fo
 * **[SemiconductorSchool](https://www.amazon.com/dp/B0B8GYN5CL)** (2022)  
   🏆 *#1 Amazon New Release in Semiconductor*
 
-### 📫 Contact
-* **Email**: [roger@ssu.ac.kr](mailto:roger@ssu.ac.kr) *Alternative Contact: estlit@daum.net (For inquiries regarding published books)
-* **Amazon**: [Amazon.com: Roger Kim: books, biography, latest update](https://www.amazon.com/stores/author/B0B8H7HDMG)
+* **Official Email**: [roger@ssu.ac.kr](mailto:roger@ssu.ac.kr)
+* **Book Inquiries**: [estlit@daum.net](mailto:estlit@daum.net) (Alternative Contact)
+* **Amazon Store**: [Amazon.com: Roger Kim: books, biography, latest update](https://www.amazon.com/stores/author/B0B8H7HDMG)
