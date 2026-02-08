@@ -6,8 +6,19 @@ I enjoy exploring the intersection of AI hardware and system software, with a fo
 ---
 
 ### 📚 Published Works
-* **[AI NPU System Design with Python and Verilog]** (2026)  
-  🏆 #1 Amazon New Release in Compiler Design (https://www.amazon.com/dp/B0GLQVJWMK)
-* **[SemiconductorSchool]** (2022)  
-  🏆 #1 Amazon New Release in Semiconductor (https://www.amazon.com/dp/B0B8GYN5CL)
+* **[AI NPU System Design with Python and Verilog](https://www.amazon.com/dp/B0GLQVJWMK)** (2026)  
+  🏆 *#1 Amazon New Release in Compiler Design*
+* **[SemiconductorSchool](https://www.amazon.com/dp/B0B8GYN5CL)** (2022)  
+  🏆 *#1 Amazon New Release in Semiconductor*
+
 ---
+
+### 🔍 Interests
+* **Architectures**: Exploring AI NPUs and semiconductor system designs.
+* **Education**: Sharing practical knowledge to help students and engineers grow.
+
+---
+
+### 📫 Contact
+* **Email**: [roger@ssu.ac.kr](mailto:roger@ssu.ac.kr)
+* **Amazon**: [Author Profile](https://www.amazon.com/dp/B0GLQVJWMK)
