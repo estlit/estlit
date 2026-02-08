@@ -21,4 +21,4 @@ I enjoy exploring the intersection of AI hardware and system software, with a fo
 
 ### 📫 Contact
 * **Email**: [roger@ssu.ac.kr](mailto:roger@ssu.ac.kr)
-* **Amazon**: [Author Profile](https://www.amazon.com/dp/B0GLQVJWMK)
+* **Amazon**: [Amazon.com: Roger Kim: books, biography, latest update](https://www.amazon.com/stores/author/B0B8H7HDMG)
