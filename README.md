@@ -4,6 +4,11 @@
   <img src="https://img.shields.io/badge/Microprocessor%20Design-%231-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Compiler%20Design-%231-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Best%20Seller-Rank%20%236-007EB9?style=for-the-badge" />
+  <div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-009A17?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 </div>
 I enjoy exploring the intersection of AI hardware and system software, with a focus on making complex NPU designs more accessible to everyone.
 
