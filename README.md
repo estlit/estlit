@@ -1,4 +1,4 @@
-# Hello, I'm Roger Kim
+# Welcome
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon-1%20New%20Release-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
   <img src="https://img.shields.io/badge/Microprocessor%20Design-%231-gold?style=for-the-badge" />
