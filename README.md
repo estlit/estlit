@@ -22,7 +22,6 @@
 
 * **[EdgeChipLab_CPU_v1 — Successfully Passed RISC-V RV32I ACT v3.0](https://github.com/estlit/EdgeChipLab_RV32I_Compliance_Report)**
 
-* **[EdgeChipLab GitHub](https://github.com/estlit)**
 
 ---
 
