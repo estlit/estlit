@@ -39,3 +39,6 @@
 
 **Official Email:** [roger@ssu.ac.kr](mailto:roger@ssu.ac.kr)
 **Book Inquiries:** [estlit@daum.net](mailto:estlit@daum.net)
+**Homepage (Korean):** https://www.semiconductorschool.co.kr
+*Korean-language educational platform for semiconductor system design, RISC-V CPU architecture, FPGA implementation, and AI NPU development.*
+
