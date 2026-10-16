@@ -2,11 +2,19 @@
 
 #### Books
 
+
+  * **[Semiconductor Career Landscape: A Practical Guide to 35 Engineering Careers in the Global Chip Industry](https://www.amazon.com/dp/B0HJGWKHFR)** (2026)
+  *7 Engineering Worlds · 35 Engineering Missions · 7 Company Types | Developed from public career and technical material published by 19 global semiconductor companies*
+
+* **[RISC-V RV32I: From Fundamentals to FPGA Implementation](https://www.amazon.com/dp/B0HJ2V1WVT)** (2026)
+  *EdgeChipLab Computer Architecture Series, Book 1*
+
 * **[AI NPU System Design with Python and Verilog](https://www.amazon.com/dp/B0GLQVJWMK)** (2026)
   *Amazon Best Seller #2 in Microprocessor Design | #2 in Compiler Design | #4 in Microprocessors & System Design | #1 Amazon New Release in Microprocessor Design | #1 New Release in Compiler Design*
 
-* **[SemiconductorSchool](https://www.amazon.com/dp/B0B8GYN5CL)** (2022)
+* **[Semiconductor School](https://www.amazon.com/dp/B0B8GYN5CL)** (2022)
   *#1 Amazon New Release in Semiconductor*
+  
 
 ---
 
