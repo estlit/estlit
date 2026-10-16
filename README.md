@@ -52,6 +52,8 @@
 
 * RISC-V CPU Architecture & Architectural Verification
 * RTL-based AI NPU Design
+* SoC Integration & On-Chip Interconnect (AXI)
+* RTOS Bring-Up & Embedded Firmware on RISC-V SoC
 * FPGA-based Edge AI Systems
 * Bit-Accurate Python + Verilog Co-Verification
 * Hardware/Software Co-Design for Semiconductor Education
