@@ -20,9 +20,24 @@
 
 #### Academic Publications
 
+  *All four papers are single-authored. IJIBC is a KCI-listed journal.*
+
+* **A Non-Intrusive Cycle-Accurate Trace Framework for RISC-V Pipeline Integrity Verification on FPGA**
+  *International Journal of Internet, Broadcasting and Communication (IJIBC), Vol.18 No.4, pp.347–361, 2026*
+  DOI: https://doi.org/10.7236/IJIBC.2026.18.4.347
+
+* **A HW/SW Co-Design Methodology for CPU-NPU Collaborative Inference Using QAT-Based Quantized Transformer**
+  *International Journal of Internet, Broadcasting and Communication (IJIBC), Vol.18 No.4, pp.221–237, 2026*
+  DOI: https://doi.org/10.7236/IJIBC.2026.18.4.221
+
+* **FPGA Implementation of an Edge Vision System with Dynamic Spatial Translation for NPU Inference**
+  *International Journal of Internet, Broadcasting and Communication (IJIBC), Vol.18 No.4, pp.176–188, 2026*
+  DOI: https://doi.org/10.7236/IJIBC.2026.18.4.176
+
 * **FPGA Implementation of a Deterministic and Bit-Accurate Quad-Core Quad-Cycle Systolic Ensemble NPU for Edge Inference**
   *International Journal of Internet, Broadcasting and Communication (IJIBC), Vol.18 No.2, pp.110–121, 2026*
   DOI: https://doi.org/10.7236/IJIBC.2026.18.2.110
+  
 
 ---
 
